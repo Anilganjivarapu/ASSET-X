@@ -1,0 +1,17 @@
+.vscode/
+.anaconda/
+.cache/
+.conda/
+.matplotlib/
+Documents/
+Downloads/
+Desktop/
+*.pdf
+*.mp4
+*.jpeg
+*.jpg
+*.png
+*.exe
+*.docx
+*.pptx
+
